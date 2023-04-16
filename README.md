@@ -1,4 +1,4 @@
-![Movies](Movies.jpg)
+![jpg](Movies.jpg)
 
 # MICROSOFT'S MOVIE ANALYLIS 
 
@@ -1412,7 +1412,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![jpg](barchart.jpg)
     
 
 
@@ -1433,7 +1433,7 @@ plt.show()
 
 
     
-![png](output_38_0.png)
+![jpg](regplot.jpg)
     
 
 
@@ -1465,7 +1465,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![jpg](barchart2.jpg)
     
 
 
